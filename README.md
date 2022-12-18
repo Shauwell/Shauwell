@@ -21,7 +21,10 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
+---
 
+### :man_technologist: About Me :
+I am a full stack Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
 👋 Hi there.👏 I’m @Shauwell
 - 👀 I love math, statistics, programming, and data science.
