@@ -26,13 +26,17 @@
 ### :man_technologist: About Me :
 I am a full stack Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
+- 👀 I love math, statistics, and programming.
+
 - :telescope: I’m studying for my Master's degree of Data Science in Augusta University, and performing multiple projects using biological data with SAS, R, and Python programming.
 
 - :seedling: Exploring Technical Content Writing.
 
 - :zap: In my free time, I solve problems on my part-time work and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-WeiXiao-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/wei-xiao-010531212/)
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-WeiXiao-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/wei-xiao-010531212/)
+ 
+- 💞️ I’m looking to collaborate on ...
 
 ---
 
@@ -44,11 +48,7 @@ I am a full stack Data Scientist <img src="https://media.giphy.com/media/WUlplcM
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
 </div>
 
-👋 Hi there.👏 I’m @Shauwell
-- 👀 I love math, statistics, programming, and data science.
-- 🌱 I’m currently learning data visulization and machine learning. 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
 
 <!---
 Shauwell/Shauwell is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
