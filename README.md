@@ -26,6 +26,14 @@
 ### :man_technologist: About Me :
 I am a full stack Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
+- :telescope: I’m studying for my Master's degree of Data Science in Augusta University, and performing multiple projects using biological data with SAS, R, and Python programming.
+
+- :seedling: Exploring Technical Content Writing.
+
+- :zap: In my free time, I solve problems on my part-time work and read tech articles.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-WeiXiao-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/wei-xiao-010531212/)
+
 👋 Hi there.👏 I’m @Shauwell
 - 👀 I love math, statistics, programming, and data science.
 - 🌱 I’m currently learning data visulization and machine learning. 
