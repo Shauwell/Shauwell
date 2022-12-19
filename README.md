@@ -51,12 +51,8 @@ I am a full stack Data Scientist <img src="https://media.giphy.com/media/WUlplcM
 ---
 
 ### :fire: My Stats :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username)](https://github.com/anuraghazra/github-readme-stats)
-We can customize it to give a different color, limit the maximum number of languages to show, and so on. For customization details, refer to the GitHub Readme Stats repository.
 
-Add the following code to README.md. Replace the your-github-username with your username:
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Shauwell&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
 
